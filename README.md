@@ -5,13 +5,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Summary
 
-Practice challange focusing on Flexbox
+Practice challange focusing on Flexbox. Solution: [URL](https://simon-perse.github.io/order-summary-component/)
 
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
