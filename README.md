@@ -5,7 +5,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Summary
 
-A quick practice challenge, to brush up on my Flexbox fundamentals [URL](https://simon-perse.github.io/order-summary-component/)
+A quick practice challenge, to brush up on my Flexbox fundamentals.
+[Solution URL](https://simon-perse.github.io/order-summary-component/)
 
 
 
